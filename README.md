@@ -169,7 +169,7 @@ Once training is complete, it’s time to evaluate the model's performance on th
 - **Confusion Matrix**: Generate a confusion matrix to get a more detailed understanding of how well the model distinguishes between the different classes. This will show the number of true positives, false positives, true negatives, and false negatives for each class.
 - **Other Metrics**: Consider additional metrics like precision, recall, and F1-score, especially if the dataset is imbalanced.
 
-# Iteration 3: Animal Classification (Bonus Exercise)
+# Bonus: Animal Classification
 
 **Note: For this iteration, create a new notebook.**
 
