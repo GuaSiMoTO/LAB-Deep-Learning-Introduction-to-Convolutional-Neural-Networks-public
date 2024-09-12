@@ -50,7 +50,6 @@ Once the dataset has been obtained, the next step is to extract the images and t
 Preprocessing is crucial for the model to effectively learn patterns. Common preprocessing steps include:
 1. **Resizing**: Neural networks often require all images to have the same dimensions. Resize the images to a uniform size (e.g., 64x64 or 128x128).
 2. **Normalization**: To ensure pixel values are within a consistent range, you can normalize them by scaling pixel values (from 0-255) down to the range [0,1].
-3. **Data Augmentation**: This involves applying random transformations to the images (like flipping, rotating, or zooming). This helps the model generalize better by seeing variations of the same image during training.
 
 ---
 
