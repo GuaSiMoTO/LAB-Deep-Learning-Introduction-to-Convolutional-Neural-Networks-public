@@ -27,10 +27,8 @@ To run the notebook in Google Colab and reproduce the results, follow these step
 3. **Start working on the notebook**:
    After the libraries have been installed, proceed to run each cell in the notebook to complete the exercises.
 
-## Workflow
-![](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
+ # Workflow
  
- # LAB: Text-to-Image Generative AI
  In this lab, we will explore various generative AI models to generate, modify, and enhance images. We will use models such as **Diffusion Models**, **GANs**, and **VAEs** to apply different transformations to images. The exercises are structured in a step-by-step manner, designed to be completed on **Google Colab** for optimal GPU usage.
  
  Ensure you have access to a GPU by going to `Runtime > Change runtime type > GPU` before running the code. Each iteration focuses on a specific task, and by following the steps, you will better understand how generative models work.
