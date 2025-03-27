@@ -79,7 +79,7 @@ Train the model on the Fashion MNIST dataset, adjusting hyperparameters such as 
 #### Step 8: Evaluate the Model
 Evaluate the model's performance on the test set. Generate a confusion matrix to understand how well the model distinguishes between different clothing items.
 
-### Iteration 3: Animal Classification (Bonus Exercise)
+### Bonus
 
 In this bonus exercise, you will apply what you've learned to a new dataset containing images of 10 different animals.
 
